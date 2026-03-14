@@ -16,7 +16,7 @@ Bu proje, **Scrum** metodolojisi kullanılarak geliştirilmiş, yapay zeka deste
 * **Veritabanı:** SQLite
 * **Yapay Zeka:** Gemini API / OpenAI (Hikaye ve Görsel Üretimi)
 * **Proje Yönetimi:** Jira (Scrum Software Space)
-**  Jira linki: https://yazilim-yapimi.atlassian.net/jira/software/projects/SCRUM/boards/2/backlog?selectedIssue=SCRUM-4&atlOrigin=eyJpIjoiYzQ4MTYwZGEwZWUxNDU3MTg4N2MwNTI5YmM1MDRiOWIiLCJwIjoiaiJ9 **
+ Jira linki: https://yazilim-yapimi.atlassian.net/jira/software/projects/SCRUM/boards/2/backlog?selectedIssue=SCRUM-4&atlOrigin=eyJpIjoiYzQ4MTYwZGEwZWUxNDU3MTg4N2MwNTI5YmM1MDRiOWIiLCJwIjoiaiJ9 
 * **Kod Kalitesi:** SonarQube & KISS Prensipleri
 
 ---
